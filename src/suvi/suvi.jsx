@@ -1,0 +1,1 @@
+export const suvi = () => <h1>suvi</h1>
